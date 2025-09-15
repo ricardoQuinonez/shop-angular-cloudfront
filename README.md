@@ -1,3 +1,8 @@
+# TASK 2.3
+
+Cloudfront: d2hen05bx3i872.cloudfront.net
+S3: myshopstack-deploymentmyshopbucket89bf4aef-cxnxtywxwff4
+
 # Shop Angular Cloudfront
 
 Angular version: ~17.
